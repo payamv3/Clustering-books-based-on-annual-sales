@@ -1,5 +1,5 @@
 # Clustering-books-based-on-annual-sales
-'Portenghal' is a publisher of children's books in Iran. They were looking to find specific patterns of behavior for their titles over a course of 5 years. I clustered Porteghal titles based on sales performance in order to determine whether there is a general “sales behavior” that can be utilized for automated price recommendation, determining the size of print orders, etc. 
+'Porteghal' is a publisher of children's books in Iran. They were looking to find specific patterns of behavior for their titles over a course of 5 years. I clustered Porteghal titles based on sales performance in order to determine whether there is a general “sales behavior” that can be utilized for automated price recommendation, determining the size of print orders, etc. 
 ## Project Brief, Operation and Results:
 
 ### Objective:
